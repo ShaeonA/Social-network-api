@@ -1,1 +1,2 @@
-# Social-network-api
+# Social-network-api 
+This project required me to utilize mongoDB (database management system) and mongoose (an object data modeling library) , I was required to build a Node.js / MongoDB API which allows users and their thoughts to be collected and stored, as well as the option for their friends and their reactions to be saved if wanted. 
